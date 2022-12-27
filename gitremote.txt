@@ -1,0 +1,6 @@
+1. github account
+2. empty repo
+3. local system
+4. git push -u origin master
+	4.1 username : jayant031120
+	4.2 pswd : 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
